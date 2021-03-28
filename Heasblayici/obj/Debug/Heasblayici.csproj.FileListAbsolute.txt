@@ -1,0 +1,10 @@
+C:\Users\fatime\source\repos\Heasblayici\Heasblayici\bin\Debug\Heasblayici.exe.config
+C:\Users\fatime\source\repos\Heasblayici\Heasblayici\bin\Debug\Heasblayici.exe
+C:\Users\fatime\source\repos\Heasblayici\Heasblayici\bin\Debug\Heasblayici.pdb
+C:\Users\fatime\source\repos\Heasblayici\Heasblayici\obj\Debug\Heasblayici.csprojAssemblyReference.cache
+C:\Users\fatime\source\repos\Heasblayici\Heasblayici\obj\Debug\Heasblayici.Form1.resources
+C:\Users\fatime\source\repos\Heasblayici\Heasblayici\obj\Debug\Heasblayici.Properties.Resources.resources
+C:\Users\fatime\source\repos\Heasblayici\Heasblayici\obj\Debug\Heasblayici.csproj.GenerateResource.cache
+C:\Users\fatime\source\repos\Heasblayici\Heasblayici\obj\Debug\Heasblayici.csproj.CoreCompileInputs.cache
+C:\Users\fatime\source\repos\Heasblayici\Heasblayici\obj\Debug\Heasblayici.exe
+C:\Users\fatime\source\repos\Heasblayici\Heasblayici\obj\Debug\Heasblayici.pdb
